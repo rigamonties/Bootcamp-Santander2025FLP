@@ -1,4 +1,4 @@
-# Bootcamp Santander 2025 – Fundamentos de Lógica de Programação (FLP)
+# Bootcamp Santander 2025 - Fundamentos de Lógica de Programação (FLP)
 
 Este repositório reúne os **projetos e desafios práticos** desenvolvidos durante o bootcamp **Santander 2025 – Fundamentos de Lógica de Programação**.
 
@@ -16,16 +16,14 @@ O foco do bootcamp é construir uma base sólida em **lógica de programação**
 
 | Projeto   | Descrição          | Tecnologias           | Link                 |
 | --------- | ------------------ | --------------------- | -------------------- |
-| Projeto 1 | Objetivo principal | JavaScript, HTML, CSS | [Abrir](./projeto-1) |
-| Projeto 2 | Objetivo principal | Python                | [Abrir](./projeto-2) |
-| Projeto 3 | Objetivo principal | Java                  | [Abrir](./projeto-3) |
-| Projeto 4 | Objetivo principal | JavaScript, Node.js   | [Abrir](./projeto-4) |
+| Gerenciador de Contas Bancárias | Calcula o saldo final de contas a partir de operações de depósito e saque | JavaScript            | [Abrir](./00-Challenge) |
+| Cálculo de Imposto sobre Salário em Banco |  Calcula o imposto a ser descontado do salário conforme regras definidas | JavaScript            | [Abrir](./01-Challenge) |
+| Classificador de nível de Herói | Classifica o nível de um herói com base na quantidade de experiência (XP) utilizando estruturas condicionais | JavaScript            | [Abrir](./02-Challenge) |
+| Projeto   | Objetivo principal | JavaScript            | [Abrir](./..) |
 
 ## Tecnologias Utilizadas
 
-- JavaScript  
-- Python  
-- Java  
+- JavaScript
 
 ## Objetivo do Repositório
 
